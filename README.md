@@ -41,16 +41,11 @@ npm install -g @mermaid-js/mermaid-cli
 
 ## Install
 
-From a marketplace:
+In Claude Code, run these two commands:
 
 ```
-/plugin install codemap@<marketplace-name>
-```
-
-For local development:
-
-```bash
-claude --plugin-dir ./codemap
+/plugin marketplace add mikegazzaruso/codemap
+/plugin install codemap@codemap-marketplace
 ```
 
 ## Examples
