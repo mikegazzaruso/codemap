@@ -41,12 +41,14 @@ npm install -g @mermaid-js/mermaid-cli
 
 ## Install
 
-In Claude Code, run these two commands:
+From your terminal, run:
 
+```bash
+claude plugin marketplace add mikegazzaruso/codemap
+claude plugin install codemap@codemap-marketplace
 ```
-/plugin marketplace add mikegazzaruso/codemap
-/plugin install codemap@codemap-marketplace
-```
+
+Then restart Claude Code to load the plugin.
 
 ## Examples
 
