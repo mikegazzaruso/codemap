@@ -50,6 +50,14 @@ claude plugin install codemap@codemap-marketplace
 
 Then restart Claude Code to load the plugin.
 
+## Update
+
+```bash
+claude plugin update "codemap@codemap-marketplace"
+```
+
+Restart Claude Code after updating.
+
 ## Examples
 
 ### Architecture
