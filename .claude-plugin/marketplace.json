@@ -15,7 +15,10 @@
       "author": {
         "name": "Mike Gazzaruso"
       },
-      "source": ".",
+      "source": {
+        "source": "github",
+        "repo": "mikegazzaruso/codemap"
+      },
       "homepage": "https://github.com/mikegazzaruso/codemap",
       "repository": "https://github.com/mikegazzaruso/codemap",
       "license": "MIT",
